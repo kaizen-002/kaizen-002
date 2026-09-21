@@ -1,0 +1,28 @@
+name: Latest Shorts
+
+on:
+  schedule:
+    - cron: "17 1 * * *" # 09:17 in Bali
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - run: node .github/scripts/latest-shorts.mjs
+      - name: Commit if the list changed
+        run: |
+          git add README.md assets/shorts
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update latest Shorts"
+          git push
