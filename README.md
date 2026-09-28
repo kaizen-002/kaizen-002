@@ -33,12 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/iq18KXvGAW0"><img src="assets/shorts/iq18KXvGAW0.svg" width="170" alt="MERAJAI STEAM GLOBAL"></a><br>
-<sub>MERAJAI STEAM GLOBAL</sub>
+<a href="https://www.youtube.com/shorts/vV8iA4aqqCM"><img src="assets/shorts/vV8iA4aqqCM.svg" width="170" alt="AKTOR VS YOUTUBER"></a><br>
+<sub>AKTOR VS YOUTUBER</sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/8X3wPAMY_R0"><img src="assets/shorts/8X3wPAMY_R0.svg" width="170" alt="ASHLEY BUKAN BEBAN"></a><br>
-<sub>ASHLEY BUKAN BEBAN</sub>
+<a href="https://www.youtube.com/shorts/6wGS_LwKegk"><img src="assets/shorts/6wGS_LwKegk.svg" width="170" alt="BUKAN FILTER BIASA"></a><br>
+<sub>BUKAN FILTER BIASA</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/OIxyBiOvHOI"><img src="assets/shorts/OIxyBiOvHOI.svg" width="170" alt="MOD FANS DIRESMIKAN"></a><br>
+<sub>MOD FANS DIRESMIKAN</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/z7upVczscTE"><img src="assets/shorts/z7upVczscTE.svg" width="170" alt="DIKUNCI TOTAL KONAMI"></a><br>
+<sub>DIKUNCI TOTAL KONAMI</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
