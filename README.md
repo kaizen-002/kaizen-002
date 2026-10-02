@@ -33,20 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/0srBw2m_Qso"><img src="assets/shorts/0srBw2m_Qso.svg" width="170" alt="RILIS XBOX DULUAN"></a><br>
+<sub>RILIS XBOX DULUAN</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/h9Nc2mqQSU8"><img src="assets/shorts/h9Nc2mqQSU8.svg" width="170" alt="HILANG DARI STEAM"></a><br>
+<sub>HILANG DARI STEAM</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/0ii8zhuBHKE"><img src="assets/shorts/0ii8zhuBHKE.svg" width="170" alt="INVENTARIS SENGAJA DIHAPUS"></a><br>
+<sub>INVENTARIS SENGAJA DIHAPUS</sub>
+</td>
+<td align="center" valign="top" width="180">
 <a href="https://www.youtube.com/shorts/YSTWkp92Gws"><img src="assets/shorts/YSTWkp92Gws.svg" width="170" alt="MODDER DIREKRUT MOJANG"></a><br>
 <sub>MODDER DIREKRUT MOJANG</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/zDBQinsqTEk"><img src="assets/shorts/zDBQinsqTEk.svg" width="170" alt="MOD BERUBAH JADI GAME"></a><br>
-<sub>MOD BERUBAH JADI GAME</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/K7sJEJfX7Lg"><img src="assets/shorts/K7sJEJfX7Lg.svg" width="170" alt="PISAH DARI STUDIO"></a><br>
-<sub>PISAH DARI STUDIO</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/vV8iA4aqqCM"><img src="assets/shorts/vV8iA4aqqCM.svg" width="170" alt="AKTOR VS YOUTUBER"></a><br>
-<sub>AKTOR VS YOUTUBER</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
