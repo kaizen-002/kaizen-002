@@ -33,20 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/wsE0zTy-MV8"><img src="assets/shorts/wsE0zTy-MV8.svg" width="170" alt="SENGAJA DITABRAKKAN KAPTEN"></a><br>
+<sub>SENGAJA DITABRAKKAN KAPTEN</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/HWcodg_8fEQ"><img src="assets/shorts/HWcodg_8fEQ.svg" width="170" alt="HADES TERKUNCI DI NETFLIX"></a><br>
+<sub>HADES TERKUNCI DI NETFLIX</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/oHVZNdwNbrw"><img src="assets/shorts/oHVZNdwNbrw.svg" width="170" alt="SALAM PERPISAHAN KOJIMA"></a><br>
+<sub>SALAM PERPISAHAN KOJIMA</sub>
+</td>
+<td align="center" valign="top" width="180">
 <a href="https://www.youtube.com/shorts/0srBw2m_Qso"><img src="assets/shorts/0srBw2m_Qso.svg" width="170" alt="RILIS XBOX DULUAN"></a><br>
 <sub>RILIS XBOX DULUAN</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/h9Nc2mqQSU8"><img src="assets/shorts/h9Nc2mqQSU8.svg" width="170" alt="HILANG DARI STEAM"></a><br>
-<sub>HILANG DARI STEAM</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/0ii8zhuBHKE"><img src="assets/shorts/0ii8zhuBHKE.svg" width="170" alt="INVENTARIS SENGAJA DIHAPUS"></a><br>
-<sub>INVENTARIS SENGAJA DIHAPUS</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/YSTWkp92Gws"><img src="assets/shorts/YSTWkp92Gws.svg" width="170" alt="MODDER DIREKRUT MOJANG"></a><br>
-<sub>MODDER DIREKRUT MOJANG</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
