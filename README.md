@@ -33,20 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/Pw-h3mk0GKo"><img src="assets/shorts/Pw-h3mk0GKo.svg" width="170" alt="CUMA 13 STAF"></a><br>
+<sub>CUMA 13 STAF</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/4Ee5hIsBbXM"><img src="assets/shorts/4Ee5hIsBbXM.svg" width="170" alt="KARAKTERNYA DIBIKIN BEDA"></a><br>
+<sub>KARAKTERNYA DIBIKIN BEDA</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/h8T8e-9xc8M"><img src="assets/shorts/h8T8e-9xc8M.svg" width="170" alt="MODE CERITA BATAL"></a><br>
+<sub>MODE CERITA BATAL</sub>
+</td>
+<td align="center" valign="top" width="180">
 <a href="https://www.youtube.com/shorts/wsE0zTy-MV8"><img src="assets/shorts/wsE0zTy-MV8.svg" width="170" alt="SENGAJA DITABRAKKAN KAPTEN"></a><br>
 <sub>SENGAJA DITABRAKKAN KAPTEN</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/HWcodg_8fEQ"><img src="assets/shorts/HWcodg_8fEQ.svg" width="170" alt="HADES TERKUNCI DI NETFLIX"></a><br>
-<sub>HADES TERKUNCI DI NETFLIX</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/oHVZNdwNbrw"><img src="assets/shorts/oHVZNdwNbrw.svg" width="170" alt="SALAM PERPISAHAN KOJIMA"></a><br>
-<sub>SALAM PERPISAHAN KOJIMA</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/0srBw2m_Qso"><img src="assets/shorts/0srBw2m_Qso.svg" width="170" alt="RILIS XBOX DULUAN"></a><br>
-<sub>RILIS XBOX DULUAN</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
