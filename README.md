@@ -33,20 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/Pw-h3mk0GKo"><img src="assets/shorts/Pw-h3mk0GKo.svg" width="170" alt="CUMA 13 STAF"></a><br>
-<sub>CUMA 13 STAF</sub>
+<a href="https://www.youtube.com/shorts/6yGPNPKA--g"><img src="assets/shorts/6yGPNPKA--g.svg" width="170" alt="DIUBAH JADI GRATISAN"></a><br>
+<sub>DIUBAH JADI GRATISAN</sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/4Ee5hIsBbXM"><img src="assets/shorts/4Ee5hIsBbXM.svg" width="170" alt="KARAKTERNYA DIBIKIN BEDA"></a><br>
-<sub>KARAKTERNYA DIBIKIN BEDA</sub>
+<a href="https://www.youtube.com/shorts/RIXOxBs-2xY"><img src="assets/shorts/RIXOxBs-2xY.svg" width="170" alt="TERNYATA BARU RILIS"></a><br>
+<sub>TERNYATA BARU RILIS</sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/h8T8e-9xc8M"><img src="assets/shorts/h8T8e-9xc8M.svg" width="170" alt="MODE CERITA BATAL"></a><br>
-<sub>MODE CERITA BATAL</sub>
+<a href="https://www.youtube.com/shorts/_mqpZO1jNuM"><img src="assets/shorts/_mqpZO1jNuM.svg" width="170" alt="MITOS BUG DIBONGKAR"></a><br>
+<sub>MITOS BUG DIBONGKAR</sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/wsE0zTy-MV8"><img src="assets/shorts/wsE0zTy-MV8.svg" width="170" alt="SENGAJA DITABRAKKAN KAPTEN"></a><br>
-<sub>SENGAJA DITABRAKKAN KAPTEN</sub>
+<a href="https://www.youtube.com/shorts/g0PX_DToiKQ"><img src="assets/shorts/g0PX_DToiKQ.svg" width="170" alt="BUKAN SIMBOL ACAK"></a><br>
+<sub>BUKAN SIMBOL ACAK</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
