@@ -33,20 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/xw0NyYcVk2E"><img src="assets/shorts/xw0NyYcVk2E.svg" width="170" alt="DULUNYA BIKIN GAME HP"></a><br>
+<sub>DULUNYA BIKIN GAME HP</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/quGCl3UsFqQ"><img src="assets/shorts/quGCl3UsFqQ.svg" width="170" alt="KRAFTON BARU DIBUAT"></a><br>
+<sub>KRAFTON BARU DIBUAT</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/Rh9f_dx-iR0"><img src="assets/shorts/Rh9f_dx-iR0.svg" width="170" alt="BANJIR BUG RILIS"></a><br>
+<sub>BANJIR BUG RILIS</sub>
+</td>
+<td align="center" valign="top" width="180">
 <a href="https://www.youtube.com/shorts/P5gdYBY-eLc"><img src="assets/shorts/P5gdYBY-eLc.svg" width="170" alt="BUKAN BUATAN VALVE"></a><br>
 <sub>BUKAN BUATAN VALVE</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/lsYtlyZdtcQ"><img src="assets/shorts/lsYtlyZdtcQ.svg" width="170" alt="BALIK MODAL SEHARI"></a><br>
-<sub>BALIK MODAL SEHARI</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/R61S9yHmCpk"><img src="assets/shorts/R61S9yHmCpk.svg" width="170" alt="BERAWAL DARI REDDIT"></a><br>
-<sub>BERAWAL DARI REDDIT</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/0X2O0QKi_UY"><img src="assets/shorts/0X2O0QKi_UY.svg" width="170" alt="HANYA TUGAS KULIAH"></a><br>
-<sub>HANYA TUGAS KULIAH</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
