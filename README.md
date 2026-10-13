@@ -33,20 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/ojzR7xLUMZQ"><img src="assets/shorts/ojzR7xLUMZQ.svg" width="170" alt="TIGA TAHUN LAGI"></a><br>
+<sub>TIGA TAHUN LAGI</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/sQ6upMUcmZQ"><img src="assets/shorts/sQ6upMUcmZQ.svg" width="170" alt="TUNGGANGAN PERTAMA SOULSBORNE"></a><br>
+<sub>TUNGGANGAN PERTAMA SOULSBORNE</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://www.youtube.com/shorts/EZJAoTCh6s8"><img src="assets/shorts/EZJAoTCh6s8.svg" width="170" alt="HAMPIR DIBATALKAN SONY"></a><br>
+<sub>HAMPIR DIBATALKAN SONY</sub>
+</td>
+<td align="center" valign="top" width="180">
 <a href="https://www.youtube.com/shorts/xw0NyYcVk2E"><img src="assets/shorts/xw0NyYcVk2E.svg" width="170" alt="DULUNYA BIKIN GAME HP"></a><br>
 <sub>DULUNYA BIKIN GAME HP</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/quGCl3UsFqQ"><img src="assets/shorts/quGCl3UsFqQ.svg" width="170" alt="KRAFTON BARU DIBUAT"></a><br>
-<sub>KRAFTON BARU DIBUAT</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/Rh9f_dx-iR0"><img src="assets/shorts/Rh9f_dx-iR0.svg" width="170" alt="BANJIR BUG RILIS"></a><br>
-<sub>BANJIR BUG RILIS</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/P5gdYBY-eLc"><img src="assets/shorts/P5gdYBY-eLc.svg" width="170" alt="BUKAN BUATAN VALVE"></a><br>
-<sub>BUKAN BUATAN VALVE</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
