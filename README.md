@@ -33,20 +33,20 @@ The live dashboard for Lorenesia. A station of eight painted rooms, and the agen
 <!-- SHORTS:START -->
 <table><tr>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/ojzR7xLUMZQ"><img src="assets/shorts/ojzR7xLUMZQ.svg" width="170" alt="TIGA TAHUN LAGI"></a><br>
-<sub>TIGA TAHUN LAGI</sub>
+<a href="https://www.youtube.com/shorts/nmy6hdtJ47g"><img src="assets/shorts/nmy6hdtJ47g.svg" width="170" alt="JATUH KE NEPTUNUS"></a><br>
+<sub>JATUH KE NEPTUNUS</sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/sQ6upMUcmZQ"><img src="assets/shorts/sQ6upMUcmZQ.svg" width="170" alt="TUNGGANGAN PERTAMA SOULSBORNE"></a><br>
-<sub>TUNGGANGAN PERTAMA SOULSBORNE</sub>
+<a href="https://www.youtube.com/shorts/GeZEF8rrGi8"><img src="assets/shorts/GeZEF8rrGi8.svg" width="170" alt="KREATOR BIOSHOCK BIKIN INDIE"></a><br>
+<sub>KREATOR BIOSHOCK BIKIN INDIE</sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/EZJAoTCh6s8"><img src="assets/shorts/EZJAoTCh6s8.svg" width="170" alt="HAMPIR DIBATALKAN SONY"></a><br>
-<sub>HAMPIR DIBATALKAN SONY</sub>
+<a href="https://www.youtube.com/shorts/bTBRQCQzGwM"><img src="assets/shorts/bTBRQCQzGwM.svg" width="170" alt="PROYEK CUMA SEPEKAN"></a><br>
+<sub>PROYEK CUMA SEPEKAN</sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://www.youtube.com/shorts/xw0NyYcVk2E"><img src="assets/shorts/xw0NyYcVk2E.svg" width="170" alt="DULUNYA BIKIN GAME HP"></a><br>
-<sub>DULUNYA BIKIN GAME HP</sub>
+<a href="https://www.youtube.com/shorts/PM3htCu1E_U"><img src="assets/shorts/PM3htCu1E_U.svg" width="170" alt="BIKIN GAME SENDIRIAN"></a><br>
+<sub>BIKIN GAME SENDIRIAN</sub>
 </td>
 </tr></table>
 <!-- SHORTS:END -->
